@@ -1,0 +1,15 @@
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\bin\Debug\net8.0\Colegio.INegocio.deps.json
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\bin\Debug\net8.0\Colegio.INegocio.runtimeconfig.json
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\bin\Debug\net8.0\Colegio.INegocio.dll
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\bin\Debug\net8.0\Colegio.INegocio.pdb
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.csproj.AssemblyReference.cache
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.AssemblyInfoInputs.cache
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.AssemblyInfo.cs
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.csproj.CoreCompileInputs.cache
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.sourcelink.json
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.dll
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\refint\Colegio.INegocio.dll
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.pdb
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\Colegio.INegocio.genruntimeconfig.cache
+C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\obj\Debug\net8.0\ref\Colegio.INegocio.dll

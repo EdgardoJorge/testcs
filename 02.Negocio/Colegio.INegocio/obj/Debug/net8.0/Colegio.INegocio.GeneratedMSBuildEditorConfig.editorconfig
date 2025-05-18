@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Colegio.INegocio
-build_property.ProjectDir = C:\Users\laba\Documents\test\02.Negocio\Colegio.INegocio\
+build_property.ProjectDir = C:\Users\laba\Documents\git\testcs\02.Negocio\Colegio.INegocio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

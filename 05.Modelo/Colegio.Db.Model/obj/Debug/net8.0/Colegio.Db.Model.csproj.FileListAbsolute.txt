@@ -1,0 +1,15 @@
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\bin\Debug\net8.0\Colegio.Db.Model.deps.json
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\bin\Debug\net8.0\Colegio.Db.Model.runtimeconfig.json
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\bin\Debug\net8.0\Colegio.Db.Model.dll
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\bin\Debug\net8.0\Colegio.Db.Model.pdb
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.csproj.AssemblyReference.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.AssemblyInfoInputs.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.AssemblyInfo.cs
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.csproj.CoreCompileInputs.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.sourcelink.json
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.dll
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\refint\Colegio.Db.Model.dll
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.pdb
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\Colegio.Db.Model.genruntimeconfig.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.Db.Model\obj\Debug\net8.0\ref\Colegio.Db.Model.dll

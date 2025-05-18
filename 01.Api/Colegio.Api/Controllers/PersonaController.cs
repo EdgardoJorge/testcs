@@ -1,3 +1,6 @@
+using System.Runtime.InteropServices;
+using Colegio.Api.Data;
+using Colegio.Api.Models;
 using Colegio.RequestResponse;
 using Microsoft.AspNetCore.Mvc;
 namespace Colegio.Api.Controllers
@@ -5,12 +8,18 @@ namespace Colegio.Api.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class PersonaController : ControllerBase
-    {
-        /*[HttpGet]
+    {   
+        MiContextoPersonalizado db = new MiContextoPersonalizado();
+        [HttpGet()]
+        public ActionResult<List<Persona>>listarPersona2(){
+            List<Persona> olistaPersona= db.Personas.ToList();
+            return(olistaPersona);
+        }
+       /*  /*[HttpGet]
         public IActionResult listarPersonas()
         {
             return Ok();
-        }*/
+        }
         [HttpGet()]
         public ActionResult<List<PersonaResponse>> listarPersona2()
         {
@@ -24,7 +33,7 @@ namespace Colegio.Api.Controllers
                 tmp.Direccion = $"Direccion {contador}";
                 tmp.FechaNacimiento = DateTime.Now.AddYears(-(contador + 1) * 3);
                 resultado.Add(tmp);
-            }*/
+            }
             int contador = 0;
             /*while (contador < 11)
             {
@@ -36,7 +45,7 @@ namespace Colegio.Api.Controllers
                 tmp.FechaNacimiento = DateTime.Now.AddYears(-(contador + 1) * 3);
                 resultado.Add(tmp);
                 contador++;
-            }*/
+            }
             do
             {
                 PersonaResponse tmp = new PersonaResponse();
@@ -50,6 +59,6 @@ namespace Colegio.Api.Controllers
             } while (contador < 11);
             resultado.Add(new PersonaResponse() { Nombre = "Edgardo", ApellidoPaterno = "Huaricapcha", ApellidoMaterno = "berrocal", Direccion = "direccion", FechaNacimiento = DateTime.Now.AddYears(-18) });
             return Ok(resultado);
-        }
+        } */
     }
 }

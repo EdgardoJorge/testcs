@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\laba\\Documents\\test\\",
+  "WorkspaceRootPath": "C:\\Users\\laba\\Documents\\git\\testcs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ACCDD09A-616A-41DA-8EAF-8E1503751E06}|01.Api\\Colegio.Api\\Colegio.Api.csproj|c:\\users\\laba\\documents\\test\\01.api\\colegio.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ACCDD09A-616A-41DA-8EAF-8E1503751E06}|01.Api\\Colegio.Api\\Colegio.Api.csproj|c:\\users\\laba\\documents\\git\\testcs\\01.api\\colegio.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ACCDD09A-616A-41DA-8EAF-8E1503751E06}|01.Api\\Colegio.Api\\Colegio.Api.csproj|solutionrelative:01.api\\colegio.api\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D166E8AA-F113-4BC9-BD56-57448E1B7A43}|05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj|c:\\users\\laba\\documents\\test\\05.modelo\\colegio.requestresponse\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D166E8AA-F113-4BC9-BD56-57448E1B7A43}|05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj|c:\\users\\laba\\documents\\git\\testcs\\05.modelo\\colegio.requestresponse\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D166E8AA-F113-4BC9-BD56-57448E1B7A43}|05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj|solutionrelative:05.modelo\\colegio.requestresponse\\personaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PersonaResponse.cs",
-              "DocumentMoniker": "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\PersonaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\PersonaResponse.cs",
               "RelativeDocumentMoniker": "05.Modelo\\Colegio.RequestResponse\\PersonaResponse.cs",
-              "ToolTip": "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\PersonaResponse.cs",
+              "ToolTip": "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\PersonaResponse.cs",
               "RelativeToolTip": "05.Modelo\\Colegio.RequestResponse\\PersonaResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PersonaController.cs",
-              "DocumentMoniker": "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\Controllers\\PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\Controllers\\PersonaController.cs",
               "RelativeDocumentMoniker": "01.Api\\Colegio.Api\\Controllers\\PersonaController.cs",
-              "ToolTip": "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\Controllers\\PersonaController.cs",
               "RelativeToolTip": "01.Api\\Colegio.Api\\Controllers\\PersonaController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

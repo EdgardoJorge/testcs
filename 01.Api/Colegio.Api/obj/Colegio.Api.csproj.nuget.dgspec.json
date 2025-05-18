@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\Colegio.Api.csproj": {}
+    "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\Colegio.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\Colegio.Api.csproj": {
+    "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\Colegio.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\Colegio.Api.csproj",
+        "projectUniqueName": "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\Colegio.Api.csproj",
         "projectName": "Colegio.Api",
-        "projectPath": "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\Colegio.Api.csproj",
+        "projectPath": "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\Colegio.Api.csproj",
         "packagesPath": "C:\\Users\\laba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laba\\Documents\\test\\01.Api\\Colegio.Api\\obj\\",
+        "outputPath": "C:\\Users\\laba\\Documents\\git\\testcs\\01.Api\\Colegio.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj": {
-                "projectPath": "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj"
+              "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj": {
+                "projectPath": "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj"
               }
             }
           }
@@ -54,6 +54,38 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
@@ -78,18 +110,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj": {
+    "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj",
+        "projectUniqueName": "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj",
         "projectName": "Colegio.RequestResponse",
-        "projectPath": "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj",
+        "projectPath": "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\Colegio.RequestResponse.csproj",
         "packagesPath": "C:\\Users\\laba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laba\\Documents\\test\\05.Modelo\\Colegio.RequestResponse\\obj\\",
+        "outputPath": "C:\\Users\\laba\\Documents\\git\\testcs\\05.Modelo\\Colegio.RequestResponse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -127,6 +159,40 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -143,7 +209,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

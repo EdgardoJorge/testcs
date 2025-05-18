@@ -1,0 +1,15 @@
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\bin\Debug\net8.0\Colegio.Repositorio.deps.json
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\bin\Debug\net8.0\Colegio.Repositorio.runtimeconfig.json
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\bin\Debug\net8.0\Colegio.Repositorio.dll
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\bin\Debug\net8.0\Colegio.Repositorio.pdb
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.csproj.AssemblyReference.cache
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.AssemblyInfoInputs.cache
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.AssemblyInfo.cs
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.sourcelink.json
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.dll
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\refint\Colegio.Repositorio.dll
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.pdb
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\Colegio.Repositorio.genruntimeconfig.cache
+C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\obj\Debug\net8.0\ref\Colegio.Repositorio.dll

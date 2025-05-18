@@ -1,0 +1,15 @@
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\bin\Debug\net8.0\Colegio.ModeloComun.deps.json
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\bin\Debug\net8.0\Colegio.ModeloComun.runtimeconfig.json
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\bin\Debug\net8.0\Colegio.ModeloComun.dll
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\bin\Debug\net8.0\Colegio.ModeloComun.pdb
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.csproj.AssemblyReference.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.AssemblyInfoInputs.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.AssemblyInfo.cs
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.csproj.CoreCompileInputs.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.sourcelink.json
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.dll
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\refint\Colegio.ModeloComun.dll
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.pdb
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\Colegio.ModeloComun.genruntimeconfig.cache
+C:\Users\laba\Documents\git\testcs\05.Modelo\Colegio.ModeloComun\obj\Debug\net8.0\ref\Colegio.ModeloComun.dll

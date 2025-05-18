@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Colegio.Repositorio
-build_property.ProjectDir = C:\Users\laba\Documents\test\04.Repositorios\Colegio.Repositorio\
+build_property.ProjectDir = C:\Users\laba\Documents\git\testcs\04.Repositorios\Colegio.Repositorio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

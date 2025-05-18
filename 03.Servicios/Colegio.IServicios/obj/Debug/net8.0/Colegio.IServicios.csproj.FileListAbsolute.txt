@@ -1,0 +1,15 @@
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\bin\Debug\net8.0\Colegio.IServicios.deps.json
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\bin\Debug\net8.0\Colegio.IServicios.runtimeconfig.json
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\bin\Debug\net8.0\Colegio.IServicios.dll
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\bin\Debug\net8.0\Colegio.IServicios.pdb
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.csproj.AssemblyReference.cache
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.AssemblyInfoInputs.cache
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.AssemblyInfo.cs
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.csproj.CoreCompileInputs.cache
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.sourcelink.json
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.dll
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\refint\Colegio.IServicios.dll
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.pdb
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\Colegio.IServicios.genruntimeconfig.cache
+C:\Users\laba\Documents\git\testcs\03.Servicios\Colegio.IServicios\obj\Debug\net8.0\ref\Colegio.IServicios.dll

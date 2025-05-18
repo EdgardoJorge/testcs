@@ -1,0 +1,15 @@
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\bin\Debug\net8.0\Colegio.Utilitarios.deps.json
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\bin\Debug\net8.0\Colegio.Utilitarios.runtimeconfig.json
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\bin\Debug\net8.0\Colegio.Utilitarios.dll
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\bin\Debug\net8.0\Colegio.Utilitarios.pdb
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.csproj.AssemblyReference.cache
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.AssemblyInfoInputs.cache
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.AssemblyInfo.cs
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.sourcelink.json
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.dll
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\refint\Colegio.Utilitarios.dll
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.pdb
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\Colegio.Utilitarios.genruntimeconfig.cache
+C:\Users\laba\Documents\git\testcs\06.Utilitarios\Colegio.Utilitarios\obj\Debug\net8.0\ref\Colegio.Utilitarios.dll
